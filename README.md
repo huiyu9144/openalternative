@@ -1,4 +1,4 @@
-# Awesome Open Source Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+﻿# Awesome Open Source Alternatives [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 An awesome list of open source alternatives to proprietary software, maintained by [OpenAlternative](https://openalternative.co).
 
